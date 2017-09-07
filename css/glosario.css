@@ -1,0 +1,24 @@
+body {
+    background-image: url("../img/fondo.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin-left: 2%;
+}
+
+.container {
+    margin-left: 1%;
+    width: 90%;
+}
+
+li * {
+    color: #89EAE1;
+    font-weight: bold
+}
+
+* {
+    font-family: 'Raleway';
+}
